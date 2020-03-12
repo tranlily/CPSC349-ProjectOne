@@ -3,6 +3,6 @@
 Group members:
 
 shijie feng - donfeng97@csu.fullerton.edu
-x
-x
-x
+
+ying wen- ywen1306@csu.fullerton.edu
+
