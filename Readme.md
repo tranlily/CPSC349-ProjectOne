@@ -1,14 +1,14 @@
 ## Project One
 
-Group members:
+Team ice_cube
 
-shijie feng - donfeng97@csu.fullerton.edu
+Shijie Feng - donfeng97@csu.fullerton.edu
 
-ying wen- ywen1306@csu.fullerton.edu
+Ying Wen- ywen1306@csu.fullerton.edu
 
-shalom yemane - syemane@csu.fullerton.edu
+Shalom Yemane - syemane@csu.fullerton.edu
 
-lily tran - derpyhooves@csu.fullerton.edu
+Lily Tran - derpyhooves@csu.fullerton.edu
 
 ## Setup
 
