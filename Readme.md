@@ -32,7 +32,7 @@ Download PHP from https://www.php.net/downloads
 
 Download MySQL from [MySQL :: Download MySQL Community Server](https://dev.mysql.com/downloads/mysql/)
 
-Choose the appropriate download for your system
+Choose the appropriate download for your system<br />
 Remember to save your password
 
 
@@ -44,13 +44,13 @@ Start your MySQL server
 ### `cd /usr/local/mysql/bin`
 ### `sudo ./mysql -u root -p`
 
-Open localhost/phpMyAdmin/setup, set up a new server 
-Download Config
-Copy/Paste config into config folder
-Create the database and tables accordingly
+Open localhost/phpMyAdmin/setup, set up a new server <br />
+Download Config<br />
+Copy/Paste config into config folder<br />
+Create the database and tables accordingly<br />
 
-Download the project ZIP file
-Unzip the folder
+Download the project ZIP file<br />
+Unzip the folder<br />
 
-Move the folder to ~/Library/Documents/Webserver
-Go to localhost/CPSC349-ProjectOne/register.php
+Move the folder to ~/Library/Documents/Webserver<br />
+Go to localhost/CPSC349-ProjectOne/register.php<br />
